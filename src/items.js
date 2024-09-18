@@ -1,5 +1,5 @@
 const items = ["Apple", "Banana", "Cherry", "Durian", "Elderberry", "Fig"];
-const colors = const cuteColorHexes = [
+const colors = [
     "#FFC0CB", // Blush Pink
     "#98FF98", // Mint Green
     "#E6E6FA", // Lavender
